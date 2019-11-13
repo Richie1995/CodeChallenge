@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "tags": [
+        "angular"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 5816061,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7afb50064a6a813568b28468f9761942?s=128&d=identicon&r=PG&f=1",
+        "display_name": "abc stack",
+        "link": "https://stackoverflow.com/users/5816061/abc-stack"
+      },
+      "is_answered": true,
+      "view_count": 30,
+      "closed_date": 1573634180,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1573635796,
+      "creation_date": 1573629617,
+      "question_id": 58832103,
+      "link": "https://stackoverflow.com/questions/58832103/like-document-getelementbyidid-in-javascript-what-we-can-do-in-angular2-and",
+      "closed_reason": "duplicate",
+      "title": "Like document.getElementById(&quot;id&quot;) in javascript, what we can do in angular2 and above versions to get dom element in type script"
+    },
+    {
+      "tags": [
+        "node.js",
+        "file-upload",
+        "angular",
+        "upload"
+      ],
+      "owner": {
+        "reputation": 134,
+        "user_id": 2248155,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/3d381bae87283bdf64e71585dc7d691b?s=128&d=identicon&r=PG",
+        "display_name": "JasonPerr",
+        "link": "https://stackoverflow.com/users/2248155/jasonperr"
+      },
+      "is_answered": false,
+      "view_count": 1134,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1573625226,
+      "creation_date": 1473458379,
+      "question_id": 39420285,
+      "link": "https://stackoverflow.com/questions/39420285/how-do-i-create-drag-and-drop-upload-for-angular2",
+      "title": "How do I create drag and drop upload for angular2"
+    },
+    {
+      "tags": [
+        "rest",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 677,
+        "user_id": 2094257,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/623e61e580ad3afdd33c7767504fb278?s=128&d=identicon&r=PG",
+        "display_name": "user2094257",
+        "link": "https://stackoverflow.com/users/2094257/user2094257"
+      },
+      "is_answered": false,
+      "view_count": 6536,
+      "answer_count": 4,
+      "score": 0,
+      "last_activity_date": 1573624845,
+      "creation_date": 1484216271,
+      "last_edit_date": 1495541385,
+      "question_id": 41610506,
+      "link": "https://stackoverflow.com/questions/41610506/angular2-keep-getting-a-400-bad-request-error-when-posting-to-api-but-when-usin",
+      "title": "Angular2: Keep getting a 400 bad request error when posting to API but when using a RestClient I get a 200 Ok"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 883,
+        "user_id": 5628302,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/5f2485540a76d5f3ca57c2f238b5ac8f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "testing",
+        "link": "https://stackoverflow.com/users/5628302/testing"
+      },
+      "is_answered": true,
+      "view_count": 8889,
+      "accepted_answer_id": 36614339,
+      "answer_count": 3,
+      "score": 19,
+      "last_activity_date": 1573612310,
+      "creation_date": 1460610553,
+      "question_id": 36614284,
+      "link": "https://stackoverflow.com/questions/36614284/what-is-viewchild-in-angular2",
+      "title": "What is ViewChild in Angular2?"
+    },
+    {
+      "tags": [
+        "angular",
+        "selectize.js"
+      ],
+      "owner": {
+        "reputation": 26,
+        "user_id": 4965021,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a18cd55abb0e11fd15be9db617a8d9a8?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nope",
+        "link": "https://stackoverflow.com/users/4965021/nope"
+      },
+      "is_answered": true,
+      "view_count": 2922,
+      "answer_count": 3,
+      "score": 3,
+      "last_activity_date": 1573600468,
+      "creation_date": 1479287660,
+      "last_edit_date": 1517310158,
+      "question_id": 40628065,
+      "link": "https://stackoverflow.com/questions/40628065/how-can-i-use-selectize-js-with-angular2",
+      "title": "How can I use Selectize.js with Angular2?"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "download",
+        "fileapi"
+      ],
+      "owner": {
+        "reputation": 3187,
+        "user_id": 4974175,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/ixCeF.jpg?s=128&g=1",
+        "display_name": "rll",
+        "link": "https://stackoverflow.com/users/4974175/rll"
+      },
+      "is_answered": true,
+      "view_count": 327620,
+      "accepted_answer_id": 35210392,
+      "answer_count": 25,
+      "score": 149,
+      "last_activity_date": 1573600335,
+      "creation_date": 1454354137,
+      "last_edit_date": 1543333306,
+      "question_id": 35138424,
+      "link": "https://stackoverflow.com/questions/35138424/how-do-i-download-a-file-with-angular2",
+      "title": "How do I download a file with Angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "routes",
+        "route-parameters"
+      ],
+      "owner": {
+        "reputation": 344,
+        "user_id": 5622398,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/6618d021285854819c0f541f1c2312b4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Fernando Popoca Ortiz",
+        "link": "https://stackoverflow.com/users/5622398/fernando-popoca-ortiz"
+      },
+      "is_answered": true,
+      "view_count": 14703,
+      "accepted_answer_id": 41553398,
+      "answer_count": 4,
+      "score": 21,
+      "last_activity_date": 1573596803,
+      "creation_date": 1483981847,
+      "last_edit_date": 1573596803,
+      "question_id": 41553281,
+      "link": "https://stackoverflow.com/questions/41553281/how-to-get-id-param-of-child-route-from-parent-component-in-angular2",
+      "title": "How to get :id param of child route from parent component in Angular2"
+    },
+    {
+      "tags": [
+        "angular"
+      ],
+      "owner": {
+        "reputation": 399,
+        "user_id": 5122461,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/aOzVO.jpg?s=128&g=1",
+        "display_name": "Govind",
+        "link": "https://stackoverflow.com/users/5122461/govind"
+      },
+      "is_answered": false,
+      "view_count": 317,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1573588575,
+      "creation_date": 1498554705,
+      "question_id": 44776367,
+      "link": "https://stackoverflow.com/questions/44776367/validator-or-mask-for-variable-length-number-in-angular2",
+      "title": "validator or mask for variable length number in angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "graph",
+        "chart.js"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9235052,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-ZjtKgJYR9j0/AAAAAAAAAAI/AAAAAAAACVk/Vai3cVQ6Owk/photo.jpg?sz=128",
+        "display_name": "Jeel Sukhadiya",
+        "link": "https://stackoverflow.com/users/9235052/jeel-sukhadiya"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1573586162,
+      "creation_date": 1573586162,
+      "question_id": 58825268,
+      "link": "https://stackoverflow.com/questions/58825268/dynamic-setting-of-data-in-graph-angular2",
+      "title": "Dynamic Setting of data in graph angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-observables"
+      ],
+      "owner": {
+        "reputation": 404,
+        "user_id": 6699168,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/04332de274ca70b7b53141b12c51ea90?s=128&d=identicon&r=PG&f=1",
+        "display_name": "moessi774",
+        "link": "https://stackoverflow.com/users/6699168/moessi774"
+      },
+      "is_answered": true,
+      "view_count": 216,
+      "accepted_answer_id": 39081856,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1573582333,
+      "creation_date": 1471874921,
+      "last_edit_date": 1471876165,
+      "question_id": 39081715,
+      "link": "https://stackoverflow.com/questions/39081715/angular2-observables-vs-promises",
+      "title": "Angular2 observables vs. promises"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular",
+        "onblur"
+      ],
+      "owner": {
+        "reputation": 1286,
+        "user_id": 5668294,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/39789f38b228d00b0f2cd946c84f0110?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ignat",
+        "link": "https://stackoverflow.com/users/5668294/ignat"
+      },
+      "is_answered": true,
+      "view_count": 163026,
+      "accepted_answer_id": 34918214,
+      "answer_count": 7,
+      "score": 94,
+      "last_activity_date": 1573560196,
+      "creation_date": 1453362969,
+      "last_edit_date": 1496497581,
+      "question_id": 34918198,
+      "link": "https://stackoverflow.com/questions/34918198/how-to-use-onblur-event-on-angular2",
+      "title": "How to use onBlur event on Angular2?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "css",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 268,
+        "user_id": 989349,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/090b9a666d0f25ffe5203cce7e4b740e?s=128&d=identicon&r=PG",
+        "display_name": "Vulcano",
+        "link": "https://stackoverflow.com/users/989349/vulcano"
+      },
+      "is_answered": true,
+      "view_count": 40,
+      "accepted_answer_id": 58817514,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1573557159,
+      "creation_date": 1573550618,
+      "question_id": 58815558,
+      "link": "https://stackoverflow.com/questions/58815558/set-the-html-slider-background-programmatically-in-angular2",
+      "title": "Set the html slider background programmatically in angular2"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11144357,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ca1024f9cf65a563092b316e4ca896d7?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Aurel",
+        "link": "https://stackoverflow.com/users/11144357/aurel"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1573545108,
+      "creation_date": 1573545108,
+      "question_id": 58814224,
+      "link": "https://stackoverflow.com/questions/58814224/how-to-use-angular2-library-in-angularjs",
+      "title": "How to use angular2 library in angularJS?"
+    },
+    {
+      "tags": [
+        "angular"
+      ],
+      "owner": {
+        "reputation": 56,
+        "user_id": 9647365,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/Aebgq.jpg?s=128&g=1",
+        "display_name": "CrazyKP",
+        "link": "https://stackoverflow.com/users/9647365/crazykp"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1573528987,
+      "creation_date": 1573495547,
+      "last_edit_date": 1573528987,
+      "question_id": 58806487,
+      "link": "https://stackoverflow.com/questions/58806487/how-to-apply-angular2-multiselect-dropdown-settings-dynamically-based-on-checkbo",
+      "title": "how to apply angular2-multiselect-dropdown settings dynamically based on checkbox?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-routing"
+      ],
+      "owner": {
+        "reputation": 943,
+        "user_id": 4079507,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/a6023c8308e27803aa6bf54470f26962?s=128&d=identicon&r=PG&f=1",
+        "display_name": "louis amoros",
+        "link": "https://stackoverflow.com/users/4079507/louis-amoros"
+      },
+      "is_answered": true,
+      "view_count": 3558,
+      "answer_count": 2,
+      "score": 8,
+      "last_activity_date": 1573479741,
+      "creation_date": 1496240216,
+      "question_id": 44287232,
+      "link": "https://stackoverflow.com/questions/44287232/angular2-routerlink-fragment-with-variable",
+      "title": "Angular2 routerLink fragment with variable"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 383,
+        "user_id": 9172846,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/V5IRR.jpg?s=128&g=1",
+        "display_name": "Aniket kale",
+        "link": "https://stackoverflow.com/users/9172846/aniket-kale"
+      },
+      "is_answered": true,
+      "view_count": 94,
+      "accepted_answer_id": 49489006,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1573392730,
+      "creation_date": 1516195586,
+      "last_edit_date": 1516197261,
+      "question_id": 48302286,
+      "link": "https://stackoverflow.com/questions/48302286/how-to-break-cell-in-excel-using-filesaver-library-in-angular2",
+      "title": "how to break cell in excel using FileSaver library in angular2"
+    },
+    {
+      "tags": [
+        "angular"
+      ],
+      "owner": {
+        "reputation": 4471,
+        "user_id": 6554634,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://i.stack.imgur.com/7IdZS.jpg?s=128&g=1",
+        "display_name": "Mr_Perfect",
+        "link": "https://stackoverflow.com/users/6554634/mr-perfect"
+      },
+      "is_answered": true,
+      "view_count": 8929,
+      "accepted_answer_id": 39361147,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1573373068,
+      "creation_date": 1473221669,
+      "last_edit_date": 1573373068,
+      "question_id": 39361092,
+      "link": "https://stackoverflow.com/questions/39361092/what-is-subscription-type-in-angular2",
+      "title": "What is &#39;Subscription&#39; type in angular2?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 119,
+        "user_id": 8524732,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/2uzdr.jpg?s=128&g=1",
+        "display_name": "xDrago",
+        "link": "https://stackoverflow.com/users/8524732/xdrago"
+      },
+      "is_answered": true,
+      "view_count": 15,
+      "accepted_answer_id": 58785353,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1573354351,
+      "creation_date": 1573339481,
+      "question_id": 58784201,
+      "link": "https://stackoverflow.com/questions/58784201/deactivate-angular2-draggable-for-children",
+      "title": "Deactivate angular2-draggable for children"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular",
+        "ngx-translate"
+      ],
+      "owner": {
+        "reputation": 752,
+        "user_id": 5760654,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://i.stack.imgur.com/a8UaB.jpg?s=128&g=1",
+        "display_name": "Allen",
+        "link": "https://stackoverflow.com/users/5760654/allen"
+      },
+      "is_answered": true,
+      "view_count": 14218,
+      "answer_count": 1,
+      "score": 21,
+      "last_activity_date": 1573289862,
+      "creation_date": 1489073827,
+      "last_edit_date": 1552632330,
+      "question_id": 42699423,
+      "link": "https://stackoverflow.com/questions/42699423/how-to-get-current-language-with-ngx-translate-in-angular2",
+      "title": "How to get current language with ngx-translate in angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "mailto"
+      ],
+      "owner": {
+        "reputation": 8,
+        "user_id": 11169738,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-k5yxisfBe7c/AAAAAAAAAAI/AAAAAAAAAAc/3cX3JV8n9I0/photo.jpg?sz=128",
+        "display_name": "Niels Ferguson",
+        "link": "https://stackoverflow.com/users/11169738/niels-ferguson"
+      },
+      "is_answered": true,
+      "view_count": 23,
+      "accepted_answer_id": 58767408,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1573219496,
+      "creation_date": 1573218531,
+      "question_id": 58767211,
+      "link": "https://stackoverflow.com/questions/58767211/in-angular2-mailto-link-is-recognized-as-component-route",
+      "title": "In Angular2 mailto link is recognized as component route"
+    }
+  ]
+}

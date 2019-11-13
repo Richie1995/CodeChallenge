@@ -1,0 +1,493 @@
+{
+  "items": [
+    {
+      "tags": [
+        "utf-8",
+        "arabic",
+        "yahoo-weather-api"
+      ],
+      "owner": {
+        "reputation": 149,
+        "user_id": 1767839,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3f3f01514a0a4a1f998f6bbc488dfeda?s=128&d=identicon&r=PG",
+        "display_name": "Aftab Ahmed Kalhoro",
+        "link": "https://stackoverflow.com/users/1767839/aftab-ahmed-kalhoro"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1573571867,
+      "creation_date": 1573452468,
+      "question_id": 58796297,
+      "link": "https://stackoverflow.com/questions/58796297/yahoo-weather-arabic-response-contains-question-marks-instead-of-arabic-characte",
+      "title": "Yahoo Weather arabic response contains question marks instead of arabic characters"
+    },
+    {
+      "tags": [
+        "weather"
+      ],
+      "owner": {
+        "reputation": 56,
+        "user_id": 3249432,
+        "user_type": "registered",
+        "accept_rate": 14,
+        "profile_image": "https://graph.facebook.com/100000563583014/picture?type=large",
+        "display_name": "user3249432",
+        "link": "https://stackoverflow.com/users/3249432/user3249432"
+      },
+      "is_answered": true,
+      "view_count": 4453,
+      "answer_count": 2,
+      "score": 5,
+      "last_activity_date": 1573530553,
+      "creation_date": 1474036232,
+      "last_edit_date": 1573530553,
+      "question_id": 39534018,
+      "link": "https://stackoverflow.com/questions/39534018/how-to-use-bom-api-for-weather-tide-and-swell",
+      "title": "How to use BOM Api for weather, tide and swell"
+    },
+    {
+      "tags": [
+        "yahoo-api",
+        "yahoo-weather-api"
+      ],
+      "owner": {
+        "reputation": 127,
+        "user_id": 2682623,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/6e72c8b4cf81414503287ba9a61b5325?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mike",
+        "link": "https://stackoverflow.com/users/2682623/mike"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1573478976,
+      "creation_date": 1573478976,
+      "question_id": 58802346,
+      "link": "https://stackoverflow.com/questions/58802346/adding-state-to-location-in-yahoo-weather-api",
+      "title": "Adding state to location in Yahoo Weather API"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 10672878,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-1rqIsF15HVE/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jhLod_QrIOIdAE0gvvswdKwppLmQ/mo/photo.jpg?sz=128",
+        "display_name": "Moritz L.",
+        "link": "https://stackoverflow.com/users/10672878/moritz-l"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1573403803,
+      "creation_date": 1573403803,
+      "question_id": 58790717,
+      "link": "https://stackoverflow.com/questions/58790717/how-do-i-have-to-modify-the-weather-widget-to-work-as-javascript",
+      "title": "How do I have to modify the weather-widget to work as JavaScript?"
+    },
+    {
+      "tags": [
+        "r"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12337976,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10218725174594762/picture?type=large",
+        "display_name": "Hamza Fares",
+        "link": "https://stackoverflow.com/users/12337976/hamza-fares"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1573134220,
+      "creation_date": 1573134043,
+      "last_edit_date": 1573134220,
+      "question_id": 58750009,
+      "link": "https://stackoverflow.com/questions/58750009/anomaly-detection-in-time-stamps-weather-data-cleaning",
+      "title": "Anomaly detection in time stamps- weather data cleaning"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "owner": {
+        "reputation": 287,
+        "user_id": 7574199,
+        "user_type": "registered",
+        "accept_rate": 32,
+        "profile_image": "https://www.gravatar.com/avatar/01afa5c5875ad093c0193cbf16624bbb?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ganeshk",
+        "link": "https://stackoverflow.com/users/7574199/ganeshk"
+      },
+      "is_answered": true,
+      "view_count": 49,
+      "closed_date": 1573048794,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1573048412,
+      "creation_date": 1573048197,
+      "question_id": 58731680,
+      "link": "https://stackoverflow.com/questions/58731680/check-weather-two-arrays-has-equal-values-or-not",
+      "closed_reason": "duplicate",
+      "title": "Check weather two arrays has equal values or not"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10384736,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/E9fbE.jpg?s=128&g=1",
+        "display_name": "Zubair Ahmad",
+        "link": "https://stackoverflow.com/users/10384736/zubair-ahmad"
+      },
+      "is_answered": false,
+      "view_count": 58,
+      "closed_date": 1572961731,
+      "answer_count": 0,
+      "score": -5,
+      "last_activity_date": 1572976026,
+      "creation_date": 1572961432,
+      "last_edit_date": 1572976026,
+      "question_id": 58712632,
+      "link": "https://stackoverflow.com/questions/58712632/how-to-fetch-weather-info-from-accuweather-using-php-script",
+      "closed_reason": "too broad",
+      "title": "How to fetch weather info from AccuWeather using PHP script"
+    },
+    {
+      "tags": [
+        "node.js",
+        "d3.js"
+      ],
+      "owner": {
+        "reputation": 7,
+        "user_id": 12226120,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mAj1mjP3GahTYSa6UdTEt9StTFBTf0UIdmy77a7=k-s128",
+        "display_name": "My Creations",
+        "link": "https://stackoverflow.com/users/12226120/my-creations"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1572942423,
+      "creation_date": 1572937468,
+      "last_edit_date": 1572939916,
+      "question_id": 58706080,
+      "link": "https://stackoverflow.com/questions/58706080/how-to-display-temperature-wind-direction-speed-live-data-from-gfs-ncep-us",
+      "title": "How to display Temperature, Wind Direction/Speed live data from GFS / NCEP / US National Weather Service on globe?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "reputation": 53,
+        "user_id": 7474903,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-NVFAfhvQMAw/AAAAAAAAAAI/AAAAAAAAAsw/YAWYKv17RmM/photo.jpg?sz=128",
+        "display_name": "Pranav",
+        "link": "https://stackoverflow.com/users/7474903/pranav"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572918936,
+      "creation_date": 1572918936,
+      "question_id": 58703410,
+      "link": "https://stackoverflow.com/questions/58703410/the-weather-info-returns-back-to-current-position-city-when-toggled",
+      "title": "The weather info returns back to current position city when toggled"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "reputation": 53,
+        "user_id": 7474903,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-NVFAfhvQMAw/AAAAAAAAAAI/AAAAAAAAAsw/YAWYKv17RmM/photo.jpg?sz=128",
+        "display_name": "Pranav",
+        "link": "https://stackoverflow.com/users/7474903/pranav"
+      },
+      "is_answered": false,
+      "view_count": 72,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1572889499,
+      "creation_date": 1572865605,
+      "last_edit_date": 1572889499,
+      "question_id": 58692169,
+      "link": "https://stackoverflow.com/questions/58692169/how-to-get-temperature-units-on-weather-api-call",
+      "title": "How to get temperature units on weather api call?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "owner": {
+        "reputation": 17,
+        "user_id": 6829098,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-gQBpCBhUxtk/AAAAAAAAAAI/AAAAAAAAAF8/eYuNhdBz7Ls/photo.jpg?sz=128",
+        "display_name": "S_Chakra",
+        "link": "https://stackoverflow.com/users/6829098/s-chakra"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572828823,
+      "creation_date": 1572828760,
+      "last_edit_date": 1572828823,
+      "question_id": 58685989,
+      "link": "https://stackoverflow.com/questions/58685989/web-service-which-gets-weather-data-and-then-gives-the-predicted-power-outage",
+      "title": "Web service which gets weather data and then gives the predicted power outage"
+    },
+    {
+      "tags": [
+        "iot",
+        "weatherdata"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 12120591,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/601b37e46e95fc4a8b3c3717819c14a4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Yahia",
+        "link": "https://stackoverflow.com/users/12120591/yahia"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1572768351,
+      "creation_date": 1572768351,
+      "question_id": 58678414,
+      "link": "https://stackoverflow.com/questions/58678414/raspberry-pi-based-weather-reporting-over-iot",
+      "title": "Raspberry Pi based Weather Reporting Over IoT"
+    },
+    {
+      "tags": [
+        "android",
+        "openweathermap",
+        "forecast"
+      ],
+      "owner": {
+        "reputation": 28,
+        "user_id": 11538046,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3a99bdf2ce7c5aa0e3173ea9b53b1875?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nick",
+        "link": "https://stackoverflow.com/users/11538046/nick"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572512737,
+      "creation_date": 1572508787,
+      "last_edit_date": 1572512737,
+      "question_id": 58639004,
+      "link": "https://stackoverflow.com/questions/58639004/how-to-get-forecast-weather-using-openweathermap-android-library",
+      "title": "How to get Forecast weather using OpenWeatherMap-Android-Library"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12297238,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2710921255605623/picture?type=large",
+        "display_name": "Kevin Terblanche",
+        "link": "https://stackoverflow.com/users/12297238/kevin-terblanche"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572446194,
+      "creation_date": 1572438651,
+      "last_edit_date": 1572446194,
+      "question_id": 58625440,
+      "link": "https://stackoverflow.com/questions/58625440/when-i-load-localhost3000-my-scripts-load-in-fine-and-work-the-moment-i-redirec",
+      "title": "When i load localhost:3000 my scripts load in fine and work the moment i redirect to localhost:3000/weather/new they dont load in"
+    },
+    {
+      "tags": [
+        "weather",
+        "nixos",
+        "i3"
+      ],
+      "owner": {
+        "reputation": 214,
+        "user_id": 6256888,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/XEoGb.jpg?s=128&g=1",
+        "display_name": "Justin Shenk",
+        "link": "https://stackoverflow.com/users/6256888/justin-shenk"
+      },
+      "is_answered": true,
+      "view_count": 28,
+      "accepted_answer_id": 58604983,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1572342823,
+      "creation_date": 1572342823,
+      "question_id": 58604982,
+      "link": "https://stackoverflow.com/questions/58604982/how-to-add-weather-to-i3status-in-nixos",
+      "title": "How to add weather to i3status in NixOS"
+    },
+    {
+      "tags": [
+        "node.js",
+        "express",
+        "amazon-ec2"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12282932,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mBBghoxqPOHFvKoTjUyIXFBrtlsOWOTNC3T8ZkpsQ=k-s128",
+        "display_name": "Pereje Sudeep",
+        "link": "https://stackoverflow.com/users/12282932/pereje-sudeep"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572220015,
+      "creation_date": 1572212067,
+      "last_edit_date": 1572220015,
+      "question_id": 58583570,
+      "link": "https://stackoverflow.com/questions/58583570/failed-to-lookup-view-index-in-views-directory-home-ubuntu-weather-app-views",
+      "title": "Failed to lookup view &quot;index&quot; in views directory &quot;/home/ubuntu/weather-app/views&quot;"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net-core",
+        "restsharp"
+      ],
+      "owner": {
+        "reputation": 101,
+        "user_id": 9885786,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/af229c3952b122d9841b89ca4e76d03a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "GuillaumeLabs",
+        "link": "https://stackoverflow.com/users/9885786/guillaumelabs"
+      },
+      "is_answered": false,
+      "view_count": 57,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1572074958,
+      "creation_date": 1572048522,
+      "last_edit_date": 1572074958,
+      "question_id": 58567018,
+      "link": "https://stackoverflow.com/questions/58567018/call-restsharp-api-to-get-the-weather",
+      "title": "Call restsharp API to get the weather"
+    },
+    {
+      "tags": [
+        "php",
+        "forms",
+        "search",
+        "location",
+        "arabic"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 12267176,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e2fab0f2f24b0e32fc0c56f5c0181d14?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ahmad alarbeed",
+        "link": "https://stackoverflow.com/users/12267176/ahmad-alarbeed"
+      },
+      "is_answered": true,
+      "view_count": 14,
+      "accepted_answer_id": 58556102,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1571996886,
+      "creation_date": 1571995112,
+      "question_id": 58555625,
+      "link": "https://stackoverflow.com/questions/58555625/how-to-get-arabic-results-in-location-weather-search-form-the-api-support-arab",
+      "title": "how to get arabic results in location weather search form &quot; the api support arabic lang &quot;"
+    },
+    {
+      "tags": [
+        "here-api",
+        "weather-api"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 9493859,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/516960476/picture?type=large",
+        "display_name": "Justin J James",
+        "link": "https://stackoverflow.com/users/9493859/justin-j-james"
+      },
+      "is_answered": true,
+      "view_count": 27,
+      "accepted_answer_id": 58553061,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1571983681,
+      "creation_date": 1571857236,
+      "question_id": 58529449,
+      "link": "https://stackoverflow.com/questions/58529449/can-i-grab-historic-weather-data-from-the-api",
+      "title": "Can I grab historic weather data from the api?"
+    },
+    {
+      "tags": [
+        "django",
+        "django-models",
+        "django-rest-framework",
+        "django-forms",
+        "django-templates"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 7687220,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/659ba9ebdda616e51cafef0e4e262194?s=128&d=identicon&r=PG&f=1",
+        "display_name": "clinton Ailes",
+        "link": "https://stackoverflow.com/users/7687220/clinton-ailes"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1571878684,
+      "creation_date": 1571877915,
+      "question_id": 58532656,
+      "link": "https://stackoverflow.com/questions/58532656/weather-api-not-getting-data-from-other-locations",
+      "title": "Weather API not getting data from other locations"
+    }
+  ]
+}

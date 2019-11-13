@@ -1,0 +1,15 @@
+.outerContainer {
+  width: 100%;
+  height: 100%;
+
+  .innerContainer {
+    width: 100%;
+    border: 1px solid gray;
+    margin: 20px 0;
+    padding: 10px;
+
+    .weather {
+      display: inline;
+    }
+  }
+}

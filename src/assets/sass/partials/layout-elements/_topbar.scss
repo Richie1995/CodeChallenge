@@ -4,6 +4,7 @@
     transition: color .2s ease-out;
     position: fixed;
     width: calc(100% - #{$sidebar-width});
+    left: $sidebar-width;
     top: 0;
     z-index: 100;
 

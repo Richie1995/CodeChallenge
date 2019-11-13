@@ -8,7 +8,10 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "mock:soTypescript": "json-server --watch ./src/app/core/services/soTypescript.json --port 5000",
+    "mock:soAngular2": "json-server --watch ./src/app/core/services/soAngular2.json --port 5001",
+    "mock:soWeather": "json-server --watch ./src/app/core/services/soWeather.json --port 5002"
   },
   "private": true,
   "dependencies": {
@@ -20,7 +23,10 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
   },

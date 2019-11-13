@@ -1,28 +1,18 @@
-# UnicornMedical
+# Code Challenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+Um meinen Entwicklungsvorgang nachvollziehen zu können, muss der json-server installiert sein.
+Run ``npm i json-server``
 
-## Development server
+In der package.json Datei habe ich ein paar Scripte hinzugefügt, um die json-server zu starten.
+Wenn ein Server nicht gestartet wurde, so loggt die Konsole einen Error und der jeweilige Container zeigt nur die Überschrift an.
+Wenn alle Server gestartet wurden, so zeigen die Container die gewünschten Elemente an.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Die StackOverflow Objekte habe ich in den Containern nur verlinkt. Hier wird nur der Titel angezeigt als Link zur Frage. Die Wetter Daten zeigen das Datum, die Uhrzeit und die Temperatur zu in Grad Celsius an.
 
-## Code scaffolding
+FontAwesome wurde eingebunden, sodass die Icons in der Navigationsleiste nun auch angezeigt werden.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+Die Searchbar hat eine kleine CSS Anpassung erhalten (css Datei wurde zu scss Datei konvertiert).
+Darüber hinaus wurde die "topbar__inner" (Welche das Searchfield beinhaltet)  responsive dargestellt.
 
-## Build
+Die "weatherdata.json" Datei wurde in den assets Ordner verschoben.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
