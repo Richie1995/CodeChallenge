@@ -1,7 +1,7 @@
 <div class="outerContainer" *ngIf="render">
   <div class="innerContainer">
     <ul>
-        <h2>Title: "TypeScript"</h2>
+        <h2>TypeScript</h2>
         <div *ngIf="typeScriptData !==undefined">
           <li *ngFor="let item of typeScriptData">
             <a target="_blank" [href]="item.link">{{item.title}}</a>
@@ -11,7 +11,7 @@
   </div>
   <div class="innerContainer">
     <ul>
-      <h2>Title: "Angular2"</h2>
+      <h2>Angular2</h2>
       <div *ngIf="angular2Data !==undefined">
         <li *ngFor="let item of angular2Data">
           <a target="_blank" [href]="item.link">{{item.title}}</a>
@@ -21,7 +21,7 @@
   </div>
   <div class="innerContainer">
     <ul>
-      <h2>Title: "Weather"</h2>
+      <h2>Weather</h2>
       <div *ngIf="weatherData !==undefined">
         <li *ngFor="let item of weatherData">
           <a *ngIf="item.title !== undefined" target="_blank" [href]="item.link">{{item.title}}</a>
