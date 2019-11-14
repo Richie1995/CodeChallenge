@@ -1,5 +1,3 @@
-<div class="outerContainer" *ngIf="render">
-  <app-presentation header="TypeScript" [data]="typeScriptData"></app-presentation>
-  <app-presentation header="Angular2" [data]="angular2Data"></app-presentation>
-  <app-presentation header="Weather" [data]="weatherData"></app-presentation>
+<div class="outerContainer" *ngFor="let item of data">
+  <app-presentation [header]="item.name" [data]="item.data"></app-presentation>
 </div>
