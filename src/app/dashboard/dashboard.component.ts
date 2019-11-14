@@ -7,7 +7,7 @@ import {Observable} from 'rxjs/Observable';
 import {forkJoin} from 'rxjs/observable/forkJoin';
 import {isNullOrUndefined} from 'util';
 
-export interface iData {
+export interface Data {
   name: string;
   data: StackOverflowItem[] | Weather[];
 }
@@ -19,7 +19,7 @@ export interface iData {
 })
 export class DashboardComponent implements OnInit, OnDestroy {
   private subscriptions: Subscription[] = [];
-  public data: iData[] = [];
+  public data: Data[] = [];
 
   // Check if number is odd
   private static isOdd(num) {
