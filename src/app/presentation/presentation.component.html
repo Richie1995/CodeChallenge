@@ -1,0 +1,9 @@
+<ul>
+  <h2>{{header}}</h2>
+  <div *ngIf="data !==undefined">
+    <li *ngFor="let item of data">
+      <a *ngIf="item.title !== undefined" target="_blank" [href]="item.link">{{item.title}}</a>
+      <p class="weather" *ngIf="item.Datum">{{item.Datum}} - {{item.Zeit}} {{item["Temp. A."]}} °C</p>
+    </li>
+  </div>
+</ul>

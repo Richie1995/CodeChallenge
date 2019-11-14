@@ -1,33 +1,11 @@
 <div class="outerContainer" *ngIf="render">
   <div class="innerContainer">
-    <ul>
-        <h2>TypeScript</h2>
-        <div *ngIf="typeScriptData !==undefined">
-          <li *ngFor="let item of typeScriptData">
-            <a target="_blank" [href]="item.link">{{item.title}}</a>
-          </li>
-        </div>
-    </ul>
+    <app-presentation header="TypeScript" [data]="typeScriptData"></app-presentation>
   </div>
   <div class="innerContainer">
-    <ul>
-      <h2>Angular2</h2>
-      <div *ngIf="angular2Data !==undefined">
-        <li *ngFor="let item of angular2Data">
-          <a target="_blank" [href]="item.link">{{item.title}}</a>
-        </li>
-      </div>
-    </ul>
+      <app-presentation header="Angular2" [data]="angular2Data"></app-presentation>
   </div>
   <div class="innerContainer">
-    <ul>
-      <h2>Weather</h2>
-      <div *ngIf="weatherData !==undefined">
-        <li *ngFor="let item of weatherData">
-          <a *ngIf="item.title !== undefined" target="_blank" [href]="item.link">{{item.title}}</a>
-          <p class="weather" *ngIf="item.Datum">{{item.Datum}} - {{item.Zeit}} {{item["Temp. A."]}} °C</p>
-        </li>
-      </div>
-    </ul>
+    <app-presentation header="Weather" [data]="weatherData"></app-presentation>
   </div>
 </div>
