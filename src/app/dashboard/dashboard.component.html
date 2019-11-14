@@ -1,11 +1,5 @@
 <div class="outerContainer" *ngIf="render">
-  <div class="innerContainer">
-    <app-presentation header="TypeScript" [data]="typeScriptData"></app-presentation>
-  </div>
-  <div class="innerContainer">
-      <app-presentation header="Angular2" [data]="angular2Data"></app-presentation>
-  </div>
-  <div class="innerContainer">
-    <app-presentation header="Weather" [data]="weatherData"></app-presentation>
-  </div>
+  <app-presentation header="TypeScript" [data]="typeScriptData"></app-presentation>
+  <app-presentation header="Angular2" [data]="angular2Data"></app-presentation>
+  <app-presentation header="Weather" [data]="weatherData"></app-presentation>
 </div>
